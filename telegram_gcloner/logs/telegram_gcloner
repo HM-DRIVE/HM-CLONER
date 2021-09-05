@@ -1,0 +1,114 @@
+2021-09-05 10:57:10,848 - utils.config_loader - DEBUG - Loading config
+2021-09-05 10:57:10,856 - utils.config_loader - INFO - Found telegram_token: 1969755181:AAGKHr4-Bnp54mCZ4q1JaUVwMjQYqxBFKoI
+2021-09-05 10:57:10,856 - utils.config_loader - INFO - Found user_ids: 1691209696
+2021-09-05 10:57:10,857 - utils.config_loader - INFO - Found group_ids: -1001289419838
+2021-09-05 10:57:10,858 - utils.config_loader - INFO - Found path_to_gclone: ./gclone
+2021-09-05 10:57:10,858 - utils.config_loader - INFO - Found gclone_para_override: 
+2021-09-05 10:57:10,866 - utils.config_loader - INFO - Found gclone: .\gclone.EXE
+2021-09-05 10:57:10,867 - utils.config_loader - INFO - Found token: 1969755181:AAGKHr4-Bnp54mCZ4q1JaUVwMjQYqxBFKoI
+2021-09-05 10:57:10,916 - __main__ - INFO - loaded handler module: add_group
+2021-09-05 10:57:20,645 - __main__ - INFO - loaded handler module: ban
+2021-09-05 10:57:20,699 - __main__ - INFO - loaded handler module: cancel
+2021-09-05 10:57:20,709 - __main__ - INFO - loaded handler module: choose_folder
+2021-09-05 10:57:20,718 - __main__ - INFO - loaded handler module: contact
+2021-09-05 10:57:20,725 - __main__ - INFO - loaded handler module: get_help
+2021-09-05 10:57:20,734 - __main__ - INFO - loaded handler module: get_id
+2021-09-05 10:57:20,762 - __main__ - INFO - loaded handler module: process_drive_links
+2021-09-05 10:57:20,817 - __main__ - INFO - loaded handler module: sa
+2021-09-05 10:57:20,825 - __main__ - INFO - loaded handler module: start
+2021-09-05 10:57:20,834 - __main__ - INFO - loaded handler module: stop_task
+2021-09-05 10:57:20,850 - __main__ - INFO - loaded handler module: vip
+2021-09-05 10:57:20,867 - __main__ - INFO - loaded handler module: process_message
+2021-09-05 10:57:20,868 - apscheduler.scheduler - INFO - Scheduler started
+2021-09-05 10:57:20,870 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2021-09-05 10:57:20,904 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2021-09-05 10:57:24,040 - utils.restricted - INFO - Unauthorized access denied for ᴘʀᴏꜰᴇssᴏʀ 1011368108.
+2021-09-05 10:57:24,067 - utils.restricted - INFO - Unauthorized access denied for Rdjstoner 729662809.
+2021-09-05 10:57:24,069 - utils.restricted - INFO - Unauthorized access denied for Rdjstoner 729662809.
+2021-09-05 10:57:24,070 - utils.restricted - INFO - Unauthorized access denied for 💪💪 KATTA DHURAI 🥊🥊 255529737.
+2021-09-05 10:57:24,073 - utils.restricted - INFO - Unauthorized access denied for Unit 771242069.
+2021-09-05 10:57:24,075 - utils.restricted - INFO - Unauthorized access denied for Lavish 1222209154.
+2021-09-05 11:00:12,028 - handlers.sa - INFO - 300 service account files have been saved for 1691209696.
+2021-09-05 11:00:17,916 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-05 11:00:23,802 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-05 11:00:23,944 - handlers.choose_folder - DEBUG - 1691209696: choose_folder
+2021-09-05 11:00:30,302 - utils.google_drive - DEBUG - Received 55 drives
+2021-09-05 11:00:35,847 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-05 11:00:41,255 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-05 11:00:41,262 - handlers.choose_folder - DEBUG - 1691209696: choose_folder_page#2
+2021-09-05 11:00:52,981 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-05 11:00:58,795 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-05 11:00:58,802 - handlers.choose_folder - DEBUG - 1691209696: choose_folder_page#3
+2021-09-05 11:01:13,208 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-05 11:01:18,831 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-05 11:01:18,838 - handlers.choose_folder - DEBUG - 1691209696: choose_folder_page#4
+2021-09-05 11:01:23,190 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-05 11:01:28,840 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-05 11:01:28,847 - handlers.choose_folder - DEBUG - 1691209696: choose_folder_page#4,0AJRY22FsLiLRUk9PVA
+2021-09-05 11:01:35,648 - utils.google_drive - DEBUG - Received 0 files
+2021-09-05 11:01:36,667 - utils.google_drive - DEBUG - [{'name': 'HM Z Cloner', 'folder_id': '0AJRY22FsLiLRUk9PVA'}]
+2021-09-05 11:01:45,535 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-05 11:01:51,340 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-05 11:01:57,580 - utils.google_drive - DEBUG - [{'name': 'HM Z Cloner', 'folder_id': '0AJRY22FsLiLRUk9PVA'}]
+2021-09-05 11:05:37,349 - utils.restricted - INFO - Unauthorized access denied for Kashish Tenniź Dhawan 881881166.
+2021-09-05 11:06:15,602 - utils.restricted - INFO - Unauthorized access denied for PRIYANSHU DEY 999979804.
+2021-09-05 11:08:06,599 - handlers.process_message - DEBUG - {'message_id': 116328, 'date': 1630820286, 'delete_chat_photo': False, 'entities': [], 'chat': {'id': -1001289419838, 'type': 'supergroup', 'title': 'HM DRIVE [MIRROR]'}, 'caption_entities': [], 'channel_chat_created': False, 'photo': [], 'supergroup_chat_created': False, 'text': 'Hmm', 'new_chat_members': [], 'new_chat_photo': [], 'group_chat_created': False, 'reply_to_message': {'message_id': 116327, 'date': 1630820175, 'delete_chat_photo': False, 'entities': [], 'chat': {'id': -1001289419838, 'type': 'supergroup', 'title': 'HM DRIVE [MIRROR]'}, 'caption_entities': [], 'channel_chat_created': False, 'photo': [], 'supergroup_chat_created': False, 'text': 'Okay then\nBut keep looking for one\nIf found then pls share in PM', 'new_chat_members': [], 'new_chat_photo': [], 'group_chat_created': False, 'from': {'first_name': 'PRIYANSHU', 'is_bot': False, 'id': 999979804, 'last_name': 'DEY', 'username': 'PRIYANSHU_DEY'}}, 'from': {'language_code': 'en', 'first_name': '$ ⒶⒾⓈⒽⒾк $', 'is_bot': False, 'id': 1691209696, 'username': 'aishik_tokdar'}}
+2021-09-05 11:08:10,429 - handlers.process_message - DEBUG - {'message_id': 116329, 'date': 1630820289, 'delete_chat_photo': False, 'entities': [{'type': 'url', 'offset': 0, 'length': 72}], 'chat': {'id': -1001289419838, 'type': 'supergroup', 'title': 'HM DRIVE [MIRROR]'}, 'caption_entities': [], 'channel_chat_created': False, 'photo': [], 'supergroup_chat_created': False, 'text': 'https://drive.google.com/folderview?id=1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub', 'new_chat_members': [], 'new_chat_photo': [], 'group_chat_created': False, 'from': {'language_code': 'en', 'first_name': '$ ⒶⒾⓈⒽⒾк $', 'is_bot': False, 'id': 1691209696, 'username': 'aishik_tokdar'}}
+2021-09-05 11:08:10,430 - utils.helper - DEBUG - folder_id: 1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub
+2021-09-05 11:08:10,430 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/folderview?id=1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub.
+2021-09-05 11:08:10,430 - utils.helper - DEBUG - folder_id: 1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub
+2021-09-05 11:08:10,431 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub.
+2021-09-05 11:08:10,528 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-05 11:08:16,188 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-05 11:09:18,806 - utils.restricted - INFO - Unauthorized access denied for 『ᎠᏆՏͲႮᎡᏴ』ᏟϴᎠᎬᎡ 🇮🇳🇮🇳 1195142974.
+2021-09-05 11:09:24,144 - utils.restricted - INFO - Unauthorized access denied for 『ᎠᏆՏͲႮᎡᏴ』ᏟϴᎠᎬᎡ 🇮🇳🇮🇳 1195142974.
+2021-09-05 11:09:40,089 - utils.restricted - INFO - Unauthorized access denied for PRIYANSHU DEY 999979804.
+2021-09-05 11:09:44,849 - handlers.process_message - DEBUG - {'message_id': 116334, 'date': 1630820384, 'delete_chat_photo': False, 'entities': [], 'chat': {'id': -1001289419838, 'type': 'supergroup', 'title': 'HM DRIVE [MIRROR]'}, 'caption_entities': [], 'channel_chat_created': False, 'photo': [], 'supergroup_chat_created': False, 'text': '!ban', 'new_chat_members': [], 'new_chat_photo': [], 'group_chat_created': False, 'reply_to_message': {'message_id': 116279, 'date': 1630816835, 'delete_chat_photo': False, 'entities': [{'type': 'url', 'offset': 69, 'length': 7}], 'chat': {'id': -1001289419838, 'type': 'supergroup', 'title': 'HM DRIVE [MIRROR]'}, 'caption_entities': [], 'channel_chat_created': False, 'photo': [], 'supergroup_chat_created': False, 'text': "Fucking cheap hax..\n\nR u for real? Turn off ur group and go to study kid.you didn't came here to help people u just came here for subscribe shits.", 'new_chat_members': [], 'new_chat_photo': [], 'group_chat_created': False, 'from': {'first_name': 'Yagami// 死神 Kira🙂', 'is_bot': False, 'id': 961837574, 'username': 'uDreamTooSmall'}}, 'from': {'language_code': 'en', 'first_name': '$ ⒶⒾⓈⒽⒾк $', 'is_bot': False, 'id': 1691209696, 'username': 'aishik_tokdar'}}
+2021-09-05 11:09:54,068 - handlers.process_message - DEBUG - {'message_id': 116336, 'date': 1630820393, 'delete_chat_photo': False, 'entities': [], 'chat': {'id': -1001289419838, 'type': 'supergroup', 'title': 'HM DRIVE [MIRROR]'}, 'caption_entities': [], 'channel_chat_created': False, 'photo': [], 'supergroup_chat_created': False, 'text': '.gban', 'new_chat_members': [], 'new_chat_photo': [], 'group_chat_created': False, 'reply_to_message': {'message_id': 116279, 'date': 1630816835, 'delete_chat_photo': False, 'entities': [{'type': 'url', 'offset': 69, 'length': 7}], 'chat': {'id': -1001289419838, 'type': 'supergroup', 'title': 'HM DRIVE [MIRROR]'}, 'caption_entities': [], 'channel_chat_created': False, 'photo': [], 'supergroup_chat_created': False, 'text': "Fucking cheap hax..\n\nR u for real? Turn off ur group and go to study kid.you didn't came here to help people u just came here for subscribe shits.", 'new_chat_members': [], 'new_chat_photo': [], 'group_chat_created': False, 'from': {'first_name': 'Yagami// 死神 Kira🙂', 'is_bot': False, 'id': 961837574, 'username': 'uDreamTooSmall'}}, 'from': {'language_code': 'en', 'first_name': '$ ⒶⒾⓈⒽⒾк $', 'is_bot': False, 'id': 1691209696, 'username': 'aishik_tokdar'}}
+2021-09-05 11:09:56,602 - utils.restricted - INFO - Unauthorized access denied for 『ᎠᏆՏͲႮᎡᏴ』ᏟϴᎠᎬᎡ 🇮🇳🇮🇳 1195142974.
+2021-09-05 11:10:11,270 - handlers.process_message - DEBUG - {'message_id': 20, 'date': 1630820411, 'delete_chat_photo': False, 'entities': [{'type': 'url', 'offset': 0, 'length': 72}], 'chat': {'first_name': '$ ⒶⒾⓈⒽⒾк $', 'id': 1691209696, 'type': 'private', 'username': 'aishik_tokdar'}, 'caption_entities': [], 'channel_chat_created': False, 'photo': [], 'supergroup_chat_created': False, 'text': 'https://drive.google.com/folderview?id=1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub', 'new_chat_members': [], 'new_chat_photo': [], 'group_chat_created': False, 'from': {'language_code': 'en', 'first_name': '$ ⒶⒾⓈⒽⒾк $', 'is_bot': False, 'id': 1691209696, 'username': 'aishik_tokdar'}}
+2021-09-05 11:10:11,271 - utils.helper - DEBUG - folder_id: 1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub
+2021-09-05 11:10:11,271 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/folderview?id=1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub.
+2021-09-05 11:10:11,271 - utils.helper - DEBUG - folder_id: 1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub
+2021-09-05 11:10:11,271 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub.
+2021-09-05 11:10:11,302 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-05 11:10:18,960 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-05 11:10:31,951 - utils.restricted - INFO - Unauthorized access denied for PRIYANSHU DEY 999979804.
+2021-09-05 11:10:50,440 - utils.restricted - INFO - Unauthorized access denied for PRIYANSHU DEY 999979804.
+2021-09-05 11:10:50,687 - utils.restricted - INFO - Unauthorized access denied for 『ᎠᏆՏͲႮᎡᏴ』ᏟϴᎠᎬᎡ 🇮🇳🇮🇳 1195142974.
+2021-09-05 11:10:58,239 - handlers.process_drive_links - DEBUG - Found F9 2021: https://drive.google.com/open?id=1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub.
+2021-09-05 11:10:58,239 - utils.helper - DEBUG - folder_id: 1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub
+2021-09-05 11:10:58,239 - handlers.process_drive_links - DEBUG - Found F9 2021 with folder_id 1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub.
+2021-09-05 11:10:58,252 - handlers.process_drive_links - DEBUG - User 1691209696 has added task 6404.
+2021-09-05 11:10:58,330 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-05 11:11:03,913 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-05 11:11:04,303 - utils.fire_save_files - DEBUG - command line: ['.\\gclone.EXE', 'copy', '--drive-server-side-across-configs', '-P', '--stats', '1s', '--ignore-existing', '--transfers', '8', '--tpslimit', '6', '--config', 'D:\\###\\####C\\Bot\\CloneBot\\telegram_gcloner\\gclone_config\\1691209696\\current\\rclone.conf', 'gc:{1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub}', 'gc:{0AJRY22FsLiLRUk9PVA}/F9 2021']
+2021-09-05 11:11:05,300 - utils.restricted - INFO - Unauthorized access denied for PRIYANSHU DEY 999979804.
+2021-09-05 11:11:15,058 - utils.fire_save_files - DEBUG - User 1691209696 has finished task 6404: 
+│╭──────⌈ 📥 Copying ⌋──────╮
+│
+├ 📂 Target directory：/HM Z Cloner
+├ 🗂 Source : <a href="https://drive.google.com/open?id=1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub">F9 2021</a>❌
+│
+├ ✔️ Checks： <code>0 / 0</code>
+├ 📥 Transfers： <code>0 / 0</code>
+├ 📦 Size：<code>0 / 0 Bytes</code>
+├ ⚡️Speed：<code>-</code> 
+├⏳ ETA: <code>-</code>
+├ ⛩ Progress：[<code>          </code>]    0%
+│
+├──────⌈ ⚡️ CloneBot ⌋──────
+│Unable to get link.
+│
+│
+╰──────⌈ ✅ Finished ! ⌋──────╯
+2021-09-05 11:11:22,902 - utils.restricted - INFO - Unauthorized access denied for PRIYANSHU DEY 999979804.
+2021-09-05 11:11:53,752 - handlers.process_message - DEBUG - {'message_id': 116347, 'date': 1630820513, 'delete_chat_photo': False, 'entities': [{'type': 'url', 'offset': 0, 'length': 72}], 'chat': {'id': -1001289419838, 'type': 'supergroup', 'title': 'HM DRIVE [MIRROR]'}, 'caption_entities': [], 'channel_chat_created': False, 'photo': [], 'supergroup_chat_created': False, 'text': 'https://drive.google.com/folderview?id=1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub', 'new_chat_members': [], 'new_chat_photo': [], 'group_chat_created': False, 'from': {'language_code': 'en', 'first_name': '$ ⒶⒾⓈⒽⒾк $', 'is_bot': False, 'id': 1691209696, 'username': 'aishik_tokdar'}}
+2021-09-05 11:11:53,753 - utils.helper - DEBUG - folder_id: 1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub
+2021-09-05 11:11:53,753 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/folderview?id=1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub.
+2021-09-05 11:11:53,753 - utils.helper - DEBUG - folder_id: 1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub
+2021-09-05 11:11:53,753 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub.
+2021-09-05 11:11:53,769 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-09-05 11:11:59,541 - urllib3.connectionpool - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-09-05 11:12:27,553 - handlers.process_message - DEBUG - {'message_id': 116350, 'date': 1630820547, 'delete_chat_photo': False, 'entities': [{'type': 'mention', 'offset': 0, 'length': 6}], 'chat': {'id': -1001289419838, 'type': 'supergroup', 'title': 'HM DRIVE [MIRROR]'}, 'caption_entities': [], 'channel_chat_created': False, 'photo': [], 'supergroup_chat_created': False, 'text': '@admin Another New Bot', 'new_chat_members': [], 'new_chat_photo': [], 'group_chat_created': False, 'reply_to_message': {'message_id': 116349, 'date': 1630820525, 'delete_chat_photo': False, 'entities': [{'type': 'text_link', 'offset': 44, 'length': 7, 'url': 'https://drive.google.com/open?id=1Ck1UiIW8NhCOnE-TLFq4BN4pdbzL7Tub'}], 'reply_markup': {'inline_keyboard': [[{'text': '/HM Z Cloner', 'callback_data': 'save_to_folder_page#1,0AJRY22FsLiLRUk9PVA'}]]}, 'chat': {'id': -1001289419838, 'type': 'supergroup', 'title': 'HM DRIVE [MIRROR]'}, 'caption_entities': [], 'channel_chat_created': False, 'photo': [], 'supergroup_chat_created': False, 'text': '📑 The following files were detected :\n     F9 2021\n\n📂 Please select the target destination', 'new_chat_members': [], 'new_chat_photo': [], 'group_chat_created': False, 'from': {'first_name': 'Google Z Cloner', 'is_bot': True, 'id': 1969755181, 'username': 'GoogleZCloner_Bot'}}, 'from': {'language_code': 'en', 'first_name': '$ ⒶⒾⓈⒽⒾк $', 'is_bot': False, 'id': 1691209696, 'username': 'aishik_tokdar'}}
+2021-09-05 11:12:33,459 - handlers.process_message - DEBUG - {'message_id': 116351, 'date': 1630820553, 'delete_chat_photo': False, 'entities': [{'type': 'bold', 'offset': 0, 'length': 5}, {'type': 'code', 'offset': 7, 'length': 115}], 'reply_markup': {'inline_keyboard': [[{'text': 'Info!', 'url': 'http://t.me/MasterX_Assistant_Bot?start=ban'}]]}, 'chat': {'id': -1001289419838, 'type': 'supergroup', 'title': 'HM DRIVE [MIRROR]'}, 'caption_entities': [], 'channel_chat_created': False, 'photo': [], 'supergroup_chat_created': False, 'text': 'ERROR: something went wrong 🤔\n\n[400 CHANNEL_INVALID]: The channel parameter is invalid (caused by "channels.GetChannels")', 'new_chat_members': [], 'new_chat_photo': [], 'group_chat_created': False, 'via_bot': {'first_name': 'Master X Assistant', 'is_bot': True, 'id': 1830667990, 'username': 'MasterX_Assistant_Bot'}, 'from': {'language_code': 'en', 'first_name': '$ ⒶⒾⓈⒽⒾк $', 'is_bot': False, 'id': 1691209696, 'username': 'aishik_tokdar'}}
