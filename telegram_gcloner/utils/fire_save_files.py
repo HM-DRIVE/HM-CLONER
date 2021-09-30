@@ -36,7 +36,7 @@ class MySaveFileThread(threading.Thread):
         chat_id = update.effective_chat.id
         user_id = update.effective_user.id
         gd = GoogleDrive(user_id)
-        message = '╭──────⌈ 📥 Copying ⌋──────╮\n│\n├ 📂 Target directory：{}\n'.format(dest_folder['path'])
+        message = '╭──────⌈ Cloning...🔥 ⌋──────╮\n│\n├ 📂 Target directory：{}\n'.format(dest_folder['path'])
         inline_keyboard = InlineKeyboardMarkup(
             [[InlineKeyboardButton(text=f'🚫 Stop', callback_data=f'stop_task,{thread_id}')]])
 
@@ -112,8 +112,8 @@ class MySaveFileThread(threading.Thread):
             progress_size_percentage_10 = 0
             regex_checked_files = r'Checks:\s+(\d+)\s+/\s+(\d+)'
             regex_total_files = r'Transferred:\s+(\d+) / (\d+), (\d+)%(?:,\s*([\d.]+\sFiles/s))?'
-            regex_total_size = r'Transferred:[\s]+([\d.]+\s*[kMGTP]?) / ([\d.]+[\s]?[kMGTP]?Bytes),' \
-                               r'\s*(?:\-|(\d+)\%),\s*([\d.]+\s*[kMGTP]?Bytes/s),\s*ETA\s*([\-0-9hmsdwy]+)'
+            regex_total_size = r'Transferred:[\s]+([\d.]+\s*[kMGTP]?) / ([\d.]+[\s]?[kMGTP]?Bs),' \
+                               r'\s*(?:\-|(\d+)\%),\s*([\d.]+\s*[kMGTP]?B/s),\s*ETA\s*([\-0-9hmsdwy]+)'
             message_progress_last = ''
             message_progress = ''
             progress_update_time = datetime.datetime.now() - datetime.timedelta(minutes=5)
@@ -159,7 +159,7 @@ class MySaveFileThread(threading.Thread):
                                        '├ 📦 Size：<code>{} / {}</code>\n{}' \
                                        '├ ⚡️Speed：<code>{}</code> \n├⏳ ETA: <code>{}</code>\n' \
                                        '├ ⛩ Progress：[<code>{}</code>] {: >4}%\n│\n' \
-                                       '├──────⌈ ⚡️ CloneBot ⌋──────' \
+                                       '├──────⌈ ⚡️ HM CLONE BOT ⚡️ ⌋──────' \
                         .format(
                         folder_id,
                         html.escape(destination_path),
